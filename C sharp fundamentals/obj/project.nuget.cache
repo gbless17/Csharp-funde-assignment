@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dtbXPwSEszPkWBOrtw77jbsdvzXuTHvpC3/Qs3TDUf6n01zLABTFlqZZAVrP09iQxabzRE9MyGizb5YXd/v3Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GBLESS INC\\Documents\\C# Training class\\C Sharp Training class\\equation to code\\C sharp fundamentals\\C sharp fundamentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GBLESS INC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

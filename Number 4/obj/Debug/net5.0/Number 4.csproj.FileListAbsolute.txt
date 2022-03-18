@@ -1,0 +1,16 @@
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\Number 4.exe
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\Number 4.deps.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\Number 4.runtimeconfig.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\Number 4.runtimeconfig.dev.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\Number 4.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\ref\Number 4.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\bin\Debug\net5.0\Number 4.pdb
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.csproj.AssemblyReference.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.AssemblyInfoInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.AssemblyInfo.cs
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.csproj.CoreCompileInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\ref\Number 4.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.pdb
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\Number 4\obj\Debug\net5.0\Number 4.genruntimeconfig.cache

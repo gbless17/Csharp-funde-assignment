@@ -1,0 +1,5 @@
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\C sharp fundamentals\obj\Debug\net5.0\C sharp fundamentals.csproj.AssemblyReference.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\C sharp fundamentals\obj\Debug\net5.0\C sharp fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\C sharp fundamentals\obj\Debug\net5.0\C sharp fundamentals.AssemblyInfoInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\C sharp fundamentals\obj\Debug\net5.0\C sharp fundamentals.AssemblyInfo.cs
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\equation to code\C sharp fundamentals\obj\Debug\net5.0\C sharp fundamentals.csproj.CoreCompileInputs.cache
